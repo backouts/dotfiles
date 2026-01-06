@@ -13,7 +13,7 @@ APT_PKGS=(
   zsh
 )
 
-DOT_DIRS=( "zsh" "tmux" "vim" )
+DOT_DIRS=( "zsh" "tmux" "vim" "dircolors")
 
 ZSH_PLUGINS=(
   "https://github.com/zsh-users/zsh-autosuggestions"
